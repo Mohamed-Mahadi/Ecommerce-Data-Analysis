@@ -52,6 +52,20 @@ SQL
 Microsoft Word (report documentation)
 GitHub
 
+Power BI Dashboard
+
+Revenue & Orders Overview
+<img width="1943" height="1093" alt="DashboardMainpage" src="https://github.com/user-attachments/assets/7b29642b-3b40-4334-8a77-44b5aa8d5541" />
+
+Geographic Performance
+<img width="1943" height="1094" alt="Countries" src="https://github.com/user-attachments/assets/71b9cc66-6595-4c56-8e6b-315fa0740da3" />
+
+Customer Behaviour
+<img width="1883" height="1088" alt="Customers" src="https://github.com/user-attachments/assets/993f3103-2d95-4902-b4d4-0cb7acbdc808" />
+
+Product Performance
+<img width="1948" height="1027" alt="Revenues" src="https://github.com/user-attachments/assets/01105184-df0a-4e39-a0b1-54f363ebc659" />
+
 Key Findings
 1. Strong Seasonal Sales Performance
 
@@ -80,8 +94,6 @@ The United Kingdom generated over £7.3 million in revenue and accounted for the
 
 Business Impact:
 While the UK market is a major strength, the business may benefit from diversifying revenue sources through international growth.
-
-<img width="1032" height="580" alt="Screenshot 2026-06-04 011930" src="https://github.com/user-attachments/assets/f9dbdffe-f521-4e79-b653-3f9abbf82f34" />
 
 Recommendations
 Increase Preparation for Peak Season
